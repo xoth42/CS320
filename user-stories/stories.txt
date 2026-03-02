@@ -1,0 +1,21 @@
+Extract data from courses - show it to user - 
+web app - look up course (ex,cs320) -. see breakdown of grade dist. and other metrics, aggregate all scores from other accounts (ask new users what classes/grades you got)
+classes that are similar, grade estimates based off of other classes
+identify trends
+
+data collection - poll (what courses did you take, what did you get)
+ui wise, very similar to ratemyprofessor
+graphs definetly involved here, / distributions
+
+metrics - numbers 
+
+
+2-3 use cases
+
+1. On boarding - data input 
+
+2. Data viewing - look up class, get data results 
+
+3. additional class add/data add once you already signed up
+
+https://docs.google.com/presentation/d/1C3zIzKlKrmEkIhBeNV_OrjQikve31OVy10ZvU65KvNw/edit?slide=id.p#slide=id.p
